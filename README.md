@@ -24,4 +24,4 @@ My hobby project most recently, it's goal is to support (eventually) romanizing 
 ## Stats
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=zedseven&count_private=true&show_icons=true&hide_title=true&theme=dracula&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zedseven&layout=compact&theme=dracula&hide_border=true)
-![Profile Trophies](https://github-profile-trophy.vercel.app/?username=zedseven&theme=dracula&no-frame=true&row=1&column=7&margin-w=6)
+![Profile Trophies](https://github-profile-trophy.vercel.app/?username=zedseven&theme=dracula&no-frame=true&row=1&column=6&margin-w=6)
