@@ -7,7 +7,7 @@ Strong supporter of the HTML5 [`theme-color`](https://developer.mozilla.org/en-U
 ## Favourite Technologies
 ![C#](https://img.shields.io/badge/-C%23-690081?style=flat-square&logo=c-sharp)
 ![Rust](https://img.shields.io/badge/-Rust-713d21?style=flat-square&logo=rust)
-![.NET](https://img.shields.io/badge/-.NET-1362ab?style=flat-square&logo=.net)
+![.NET Core](https://img.shields.io/badge/-Core-1362ab?style=flat-square&logo=.net)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
 ![Go](https://img.shields.io/badge/-Golang-73cedd?style=flat-square&logo=go&logoColor=black)
 
