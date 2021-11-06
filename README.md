@@ -1,12 +1,12 @@
 # Hi, I'm [Zacc](https://ztdp.ca/)!
 
-I'm a Canadian software developer with an interest in almost everything I come across, but lately linguistics and graphics in particular.
+I'm a Canadian professional software developer with an interest in almost everything I come across, but lately linguistics and graphics in particular.
 
 Strong supporter of the HTML5 [`theme-color`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name/theme-color) meta tag.
 
 ## Favourite Technologies
-![C#](https://img.shields.io/badge/-C%23-690081?style=flat-square&logo=c-sharp)
 ![Rust](https://img.shields.io/badge/-Rust-713d21?style=flat-square&logo=rust)
+![C#](https://img.shields.io/badge/-C%23-690081?style=flat-square&logo=c-sharp)
 ![.NET Core](https://img.shields.io/badge/-Core-1362ab?style=flat-square&logo=.net)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
 ![Go](https://img.shields.io/badge/-Golang-73cedd?style=flat-square&logo=go&logoColor=black)
@@ -25,5 +25,3 @@ My hobby project most recently, it's goal is to support (eventually) romanizing 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=zedseven&count_private=true&show_icons=true&hide_title=true&theme=dracula&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zedseven&layout=compact&langs_count=6&theme=dracula&hide_border=true)
 ![Profile Trophies](https://github-profile-trophy.vercel.app/?username=zedseven&theme=dracula&no-frame=true&row=1&column=6&margin-w=6)
-
-Unfortunately at the moment almost all of my work in Rust has been in private repositories, so it doesn't show as one of my top languages. :/
