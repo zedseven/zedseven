@@ -1,4 +1,4 @@
-# Hi, I'm [Zacc](https://ztdp.ca/)!
+# Hi, I'm [Zacc](https://ztdp.ca/)! 🦀🍁
 
 I'm a Canadian professional software developer with an interest in almost everything I come across, but lately linguistics and graphics in particular.
 
